@@ -1,0 +1,30 @@
+[
+    {
+        "username": "adm",
+        "password": "d10692ed853c0953a04f9ccd93f283b102869483397a0e244ee118b56f6b2379",
+        "salt": "e37562d8c04d75f7365f4e6d21ad19bb",
+        "role": "SuperAdmin",
+        "folders": []
+    },
+    {
+        "username": "erwan",
+        "password": "a9ea5a3ac8fb9e925ed89d273eed7d2088441b2df18503d838df1002a8e7ae5b",
+        "salt": "ce83a94f3f843ccf302978da07705d96",
+        "role": "User",
+        "folders": [
+            "France",
+            "Br\u00e9sil",
+            "Espagne"
+        ]
+    },
+    {
+        "username": "math",
+        "password": "57481ece1326970f2a7600bf47bc6e38db786e9b33e0c1dd1f71c8e08f9c08bb",
+        "salt": "0b094d131dd6222185ef18a5d127633d",
+        "role": "User",
+        "folders": [
+            "France",
+            "Allemagne"
+        ]
+    }
+]

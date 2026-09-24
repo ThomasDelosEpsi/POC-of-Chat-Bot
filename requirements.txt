@@ -1,0 +1,9 @@
+streamlit
+fuzzywuzzy
+python-Levenshtein
+scikit-learn
+pycountry
+spacy 
+nltk
+gensim
+difflib
